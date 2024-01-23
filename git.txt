@@ -1,0 +1,7 @@
+1) Junio C. Hamano is the author of the last commit on this version of Git. 
+2) 12 objects share a partial match.
+3) 3 of the objects are blobs, 4 of them are trees, and there are 5 commits.  
+4) That commit addressing translating a specific version of Git to German. 
+5) The first file that is changed is config.txt in the Documentation folder.
+6) There are 7 branches including the addition of the todo branch. 
+
